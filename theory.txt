@@ -1,0 +1,50 @@
+{header first line
+body vitor
+footer last box}
+
+=========Identifier=========
+{1. tag
+2. class
+3. id}
+
+ {CSS- COLOR STYLE 3 
+ 1/ iNLINE
+ 2/Interline
+ 3/extraline}
+
+{1/tag{} [multipol jagia use korbo nah akbr korbo]
+2/class{....} [multipol jaigai use korte parbo]
+3/Id{#####}}
+
+
+
+
+{boder khtre lagbe 
+1/ dotted
+2/ double
+3/ dashed
+4/ solid}
+
+{border-redius}
+
+<section>
+ <div>
+ 
+ </div>
+
+ <div>
+ 
+ </div>
+
+ <div>
+
+ </div>
+
+ <div>
+ 
+ </div>
+</section>
+
+<style></style>
+
+<script></script>
